@@ -1,2 +1,5 @@
 scikit-learn
+keras
+numpy
 matplotlib
+tqdm
